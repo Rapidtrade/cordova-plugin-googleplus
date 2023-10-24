@@ -107,8 +107,8 @@
         <source url="https://cdn.cocoapods.org/"/>
       </config>
       <pods use-frameworks="true">
-        <pod name="GoogleSignIn" spec="~> 7.0.0" />
-        <pod name="GoogleUtilities" spec="~> 7.11.5" />
+        <pod name="GoogleSignIn" spec="~> 6.0.0" />
+        <pod name="GoogleUtilities" spec="~> 7.5.0" />
       </pods>
     </podspec>
 
